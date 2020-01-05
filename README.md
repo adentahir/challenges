@@ -1,2 +1,2 @@
-# challenges
+# Challenges
 Solving educative python coding challenges
